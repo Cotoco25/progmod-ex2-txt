@@ -1,0 +1,40 @@
+Die Hard,5,4,5,Ação,1988
+Mad Max: Fury Road,5,5,5,Ação,2015
+John Wick,4,4,5,Ação,2014
+Forrest Gump,4,5,5,Drama,1994
+The Shawshank Redemption,5,5,5,Drama,1994
+The Godfather,5,5,4,Drama,1972
+Superbad,4,4,3,Comédia,2007
+The Hangover,3,4,4,Comédia,2009
+Groundhog Day,4,5,5,Comédia,1993
+Titanic,5,5,5,Romance,1997
+The Notebook,3,4,5,Romance,2004
+Pride and Prejudice,4,4,5,Romance,2005
+Inception,5,5,5,Sci-Fi,2010
+The Matrix,5,5,5,Sci-Fi,1999
+Interstellar,5,5,4,Sci-Fi,2014
+Toy Story,5,4,5,Animação,1995
+The Lion King,4,5,5,Animação,1994
+Finding Nemo,4,4,5,Animação,2003
+The Exorcist,5,4,4,Terror,1973
+Halloween,4,3,4,Terror,1978
+Get Out,4,5,5,Terror,2017
+Indiana Jones,5,5,4,Aventura,1981
+Jurassic Park,5,5,5,Aventura,1993
+The Goonies,4,4,5,Aventura,1985
+Saving Private Ryan,5,4,5,Guerra,1998
+1917,5,5,5,Guerra,2019
+Full Metal Jacket,4,5,4,Guerra,1987
+The Lord of the Rings,5,5,5,Fantasia,2001
+Harry Potter,4,4,5,Fantasia,2001
+Pan's Labyrinth,5,4,5,Fantasia,2006
+Schindler's List,5,5,5,História,1993
+Braveheart,4,5,5,História,1995
+12 Years a Slave,5,5,5,História,2013
+Pulp Fiction,5,5,4,Crime,1994
+The Departed,5,4,4,Crime,2006
+Goodfellas,5,5,5,Crime,1990
+Spider-Man: No Way Home,5,4,5 ,Ação,2021
+The Green Mile,4,4,3,Drama,1999
+Moana,5,4,5,Animação,2016
+La La Land,4,5,4,Romance,2016

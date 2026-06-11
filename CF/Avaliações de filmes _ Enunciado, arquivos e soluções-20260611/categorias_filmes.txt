@@ -1,0 +1,12 @@
+Ação
+Drama
+Comédia
+Romance
+Sci-Fi
+Animação
+Terror
+Aventura
+Guerra
+Fantasia
+História
+Crime
